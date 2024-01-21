@@ -1,6 +1,6 @@
 # Low cost high frequency 1-20 GHz near field probes.
 
-![alt text](https://github.com/AndyShor/Open-microwave-probe/blob/master/Open_probe.jpg "")
+![](\Open_probe.jpg)
 
 These near field probes are an adaptation of design proposed in [1-3] for a magnetic loop and an electric  probes for wide frequency range of 1-20 GHz and high spatial resolution, thanks to small size of the sensing part.
 In [1] authors propose to make the probe using FR4 laminate for cost reasons despite FR4 poor performance at higher frequencies. This particular realization is also an amateur tool and not meant to be especially precise and reproducible from one manufactured probe to another. But it allows to have some understanding of high frequency EMC with good spatial resolution and probes costing under 100$ for a small batch.
